@@ -1,0 +1,13 @@
+.mercury, .venus {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.mercury {
+    background-color: black;
+    color: white;
+}
+
+.venus {
+    background-color: yellow;
+}
